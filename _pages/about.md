@@ -18,16 +18,16 @@ Experience
 ======
 
 - **Postdoctoral Researcher (Nov 2022 – Present)** \
-DTAI, Department of Computer Science, KU Leuven, Leuven, BE 
+[DTAI, Department of Computer Science, KU Leuven](https://wms.cs.kuleuven.be/dtai), Leuven, BE 
 
 - **Assistant Professor (Feb 2019 - Nov 2022)** \
-Department of Industrial Engineering, TED University, Ankara, TR 
+[Department of Industrial Engineering, TED University](https://ie.tedu.edu.tr/en), Ankara, TR 
 
 - **Visiting Scholar  (Oct 2017 - Jul 2018)** \
-The School of Industrial and Systems Engineering, Georgia Institute of Technology, Atlanta, GA, USA 
+[The School of Industrial and Systems Engineering, Georgia Institute of Technology](https://www.isye.gatech.edu/), Atlanta, GA, USA 
 
 - **Visiting Scholar  (Sep 2011 - Jan 2019)** \
-Department of Industrial Engineering, Bilkent University, Ankara, TR
+[Department of Industrial Engineering, Bilkent University](https://w3.ie.bilkent.edu.tr/en/), Ankara, TR
 
 Education 
 ======
