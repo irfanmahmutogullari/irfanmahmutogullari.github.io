@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a ...
+#I am a ...
 
 Areas of Interest 
 ======
@@ -47,7 +47,9 @@ Advisors: [Prof. Bahar Yetiş Kara](https://w3.ie.bilkent.edu.tr/en/about/facult
 Publications
 ======
 
-- **Title** \
-Authors \
-*Journal* \
-[\[Paper\]](url.pdf)
+Please check my [Google Scholar Profile](https://scholar.google.com/citations?user=muyZLrYAAAAJ&hl=en)
+
+#- **Title** \
+#Authors \
+#*Journal* \
+#[\[Paper\]](url.pdf)
