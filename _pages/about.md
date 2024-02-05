@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-#I am a ...
+<!---
+I am a ...
+--->
 
 Areas of Interest 
 ======
@@ -49,7 +51,15 @@ Publications
 
 Please check my [Google Scholar Profile](https://scholar.google.com/citations?user=muyZLrYAAAAJ&hl=en)
 
-#- **Title** \
-#Authors \
-#*Journal* \
-#[\[Paper\]](url.pdf)
+
+<!---
+-**Title** \
+
+Authors \
+
+ *Journal* \
+
+ [\[Paper\]](url.pdf)
+--->
+
+
