@@ -21,10 +21,10 @@ Stochastic and Robust Optimization, Decision-Focused Learning, Supply Chain Mana
 Experience
 ======
 
-- **Postdoctoral Researcher (Nov 2022 – Present)** \
+- **Postdoctoral Researcher (Oct 2022 – ...)** \
 [DTAI, Department of Computer Science, KU Leuven](https://wms.cs.kuleuven.be/dtai), Leuven, BE 
 
-- **Assistant Professor (Feb 2019 - Nov 2022)** \
+- **Assistant Professor (Feb 2019 - Sep 2022)** \
 [Department of Industrial Engineering, TED University](https://ie.tedu.edu.tr/en), Ankara, TR 
 
 - **Visiting Scholar  (Oct 2017 - Jul 2018)** \
@@ -63,5 +63,7 @@ Authors \
 
  [\[Paper\]](url.pdf)
 --->
+
+
 
 
