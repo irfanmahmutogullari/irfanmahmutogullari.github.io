@@ -12,6 +12,8 @@ redirect_from:
 I am a ...
 --->
 
+İrfan is a postdoctoral researcher in the [Declarative Languages and Artificial Intelligence (DTAI)](https://wms.cs.kuleuven.be/dtai) section of the Department of Computer Science at KU Leuven. He has been working on better integration of machine learning techniques and stochastic optimization methods in the context of the ERC-supported project "Conversational human-aware technology for optimization (CHAT-Opt)" in [Prof. Tias Guns' lab](https://people.cs.kuleuven.be/~tias.guns/) since October 2022. 
+
 Areas of Interest 
 ======
 Stochastic and Robust Optimization, Decision-Focused Learning, Supply Chain Management, Distribution Logistics, Machine Learning, Combinatorial Optimization
