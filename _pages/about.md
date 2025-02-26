@@ -18,6 +18,11 @@ Areas of Interest
 ======
 Stochastic and Robust Optimization, Decision-Focused Learning, Supply Chain Management, Distribution Logistics, Machine Learning, Combinatorial Optimization
 
+Publications
+======
+
+Please check my [Google Scholar Profile](https://scholar.google.com/citations?user=muyZLrYAAAAJ&hl=en)
+
 Experience
 ======
 
@@ -52,10 +57,7 @@ Education
 - **B.S. in Industrial Engineering (Sep 2007 - Jun 2011)** \
 [Department of Industrial Engineering, Bilkent University](https://w3.ie.bilkent.edu.tr/en/), Ankara, TR.
 
-Publications
-======
 
-Please check my [Google Scholar Profile](https://scholar.google.com/citations?user=muyZLrYAAAAJ&hl=en)
 
 
 
