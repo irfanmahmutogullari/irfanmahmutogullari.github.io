@@ -13,27 +13,31 @@
 
     <!-- Header -->
     <header class="header">
-        <img src="profile44.png" alt="Profile photo of İrfan Mahmutoğulları" class="profile-pic">
-        <h1>İrfan Mahmutoğulları</h1>
-        <p>Postdoctoral Researcher – Department of Computer Science, KU Leuven</p>
-        <p class="links">
-            <a href="mailto:irfan.mahmutogullari@kuleuven.be">Email</a> |
-            <a href="https://x.com/_irfan_m">Twitter/X</a> |
-            <a href="https://github.com/irfanmahmutogullari">GitHub</a> |
-            <a href="https://scholar.google.com/citations?user=muyZLrYAAAAJ&hl=en">Google Scholar</a> |
-            <a href="http://orcid.org/0000-0002-8770-8567">ORCID</a> |
-            <a href="https://www.linkedin.com/in/irfanmah/">LinkedIn</a>
-        </p>
+        <div class="header-left">
+            <img src="profile44.png" alt="Profile photo of İrfan Mahmutoğulları" class="profile-pic">
+        </div>
+        <div class="header-right">
+            <h1>İrfan Mahmutoğulları</h1>
+            <p>Postdoctoral Researcher – Department of Computer Science, KU Leuven</p>
+            <p class="links">
+                <a href="mailto:irfan.mahmutogullari@kuleuven.be">Email</a> |
+                <a href="https://x.com/_irfan_m">Twitter/X</a> |
+                <a href="https://github.com/irfanmahmutogullari">GitHub</a> |
+                <a href="https://scholar.google.com/citations?user=muyZLrYAAAAJ&hl=en">Google Scholar</a> |
+                <a href="http://orcid.org/0000-0002-8770-8567">ORCID</a> |
+                <a href="https://www.linkedin.com/in/irfanmah/">LinkedIn</a>
+            </p>
+        </div>
     </header>
 
     <!-- About -->
-    <section>
+    <section class="fade-in">
         <h2>About Me</h2>
         <p>I am a postdoctoral researcher in the <a href="https://wms.cs.kuleuven.be/dtai">Declarative Languages and Artificial Intelligence (DTAI)</a> group at the Department of Computer Science at KU Leuven. I am working on better integration of machine learning techniques and stochastic optimization methods in the context of the ERC-funded project <a href="https://wms.cs.kuleuven.be/chat-opt">Conversational human-aware technology for optimization (CHAT-Opt)</a> in <a href="https://people.cs.kuleuven.be/~tias.guns/">Prof. Tias Guns’ lab</a>.</p>
     </section>
 
     <!-- Research Interests -->
-    <section>
+    <section class="fade-in">
         <h2>Research Interests</h2>
         <div class="badges">
             <span>Contextual Stochastic & Robust Optimization</span>
@@ -45,7 +49,7 @@
     </section>
 
     <!-- Experience -->
-    <section>
+    <section class="fade-in">
         <h2>Experience</h2>
         <div class="timeline">
             <div class="timeline-item">
@@ -57,7 +61,7 @@
                 <p><em>Feb 2019 – Sep 2022</em></p>
             </div>
             <div class="timeline-item">
-                <h3>Research Fellow – <a href="https://www.isye.gatech.edu/">Georgia Institute of Technology</a>, Atlanta, GA, US</h3>
+                <h3>Research Fellow – <a href="https://www.isye.gatech.edu/">H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology</a>, Atlanta, GA, US</h3>
                 <p><em>Oct 2017 – Jul 2018</em></p>
             </div>
             <div class="timeline-item">
@@ -68,7 +72,7 @@
     </section>
 
     <!-- Education -->
-    <section>
+    <section class="fade-in">
         <h2>Education</h2>
         <div class="timeline">
             <div class="timeline-item">
@@ -89,11 +93,26 @@
     </section>
 
     <!-- Footer -->
-    <footer>
+    <footer class="fade-in">
         &copy; 2025 İrfan Mahmutoğulları – Last updated August 2025
     </footer>
 
 </div>
+
+<script>
+    // Scroll fade-in animation
+    const faders = document.querySelectorAll('.fade-in');
+    const appearOptions = { threshold: 0.1, rootMargin: "0px 0px -50px 0px" };
+    const appearOnScroll = new IntersectionObserver((entries, appearOnScroll) => {
+        entries.forEach(entry => {
+            if (!entry.isIntersecting) return;
+            entry.target.classList.add('appear');
+            appearOnScroll.unobserve(entry.target);
+        });
+    }, appearOptions);
+
+    faders.forEach(fader => appearOnScroll.observe(fader));
+</script>
 
 </body>
 </html>
